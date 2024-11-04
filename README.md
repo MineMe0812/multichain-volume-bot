@@ -2,7 +2,7 @@
 
 Solana Volume, Solana Bump, Base Volume, Base Bump, Sui Volume, Sui Bump - we combined all of these into one bot!
 
-![botlogo](catster-volume-bot.png)
+<img src="catster-volume-bot.png" width="300" align="center"/>
 
 # Main Features
 
