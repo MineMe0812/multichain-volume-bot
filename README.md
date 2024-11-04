@@ -1,6 +1,6 @@
 <h1  align="center">  Multichain Volume Bot </h1>
 
-Solana Volume, Solana Bump, Base Volume, Base Bump, Sui Volume, Sui Bump - we combined all of these into one bot!
+This is a volume bot for Solana, Base and Sui.
 
 <img src="catster-volume-bot.png" width="300" align="center"/>
 
