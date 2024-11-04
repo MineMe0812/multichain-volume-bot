@@ -1,11 +1,13 @@
-# How can I boost the volume of spl token in Raydium?
-# Raydium Volume Bot
+# How can I boost the volume of token on multichain?
+# Multichain Volume Bot
 
-This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
+This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the any platform.
+
+<img src="catster-volume-bot.png" />
 
 ## Contact Info
 
-Telegram: @Takhi77
+Telegram: @mineme0812
 
 You can always feel free to find me here for my help on other projects.
 
@@ -100,17 +102,9 @@ npm run start
 - ❌ **Equal number of buys and sells**: One-time buy and one-time sell actions left sell pressure at the end, as there was always a sell at the end of the volume operation.
 - ✅ **More buys than sells**: It randomly buys twice with SOL in the wallet and sells all tokens after some time, making the number of buys twice as many as sells, thus creating more buy pressure.
 
-# Version 3 is also developed.
-### Version 3 is designed for the massive transactions in a very short time.
-So, it is making 500 transactions in a minute.
-You can see my volume bot version3 working in here.
 
-https://dexscreener.com/solana/boisf5dnefrbsodmiupkpauglaggx9gdjl1csgmcjqnn
 
-There is no repeated makers and it is making 20 transactions a second.
 
-If you increase the volume of each transaction, 1 million in an hour is a piece of cake.
-How wonderful it is.
-I am proud of my version3.
-If you need it, you can contact me.
+
+
 
