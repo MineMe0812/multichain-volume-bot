@@ -1,2 +1,2 @@
-# volume-bot-multichain-Solana-Base-Sui-
+# volume-bot-multichain
 Multichain Volume Bot(Solana, Base, Sui)
