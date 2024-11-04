@@ -1,4 +1,4 @@
-# How can I boost the volume of token on multichain?
+# How can I boost the volume of token?
 # Multichain Volume Bot
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the any platform.
