@@ -99,7 +99,7 @@ npm run start
 # Version 2 is developed and it is private repository.
 
 ## 🚀 Version 2
-- ✅ **Provide Volmue Boost on telegram**: The Volume Boost has got you covered!
+- ✅ **Provide Volmue Boost on telegram**: Transactions occur in a bundle of 3: 1 Sell + 2 random Buys equaling the Sell value, executed as a Jito Bundle to ensure they occur in the same block. 
 - ✅ **Provide Rank Boost on telegram**: The Rank Boost will pump these metrics to super-boost your token's ranking on Dex Screener:
 - ✅ **Support Mulitchain(Solana, Base and Sui)**
 
