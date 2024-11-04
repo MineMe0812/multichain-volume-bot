@@ -5,12 +5,6 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 
 <img src="catster-volume-bot.png" width="300"/>
 
-## Contact Info
-
-Telegram: @mineme0812
-
-You can always feel free to find me here for my help on other projects.
-
 ## Features
 
 - **Automated Wallet Creation**: Create number of wallets automatically to buy and sell the token
@@ -103,7 +97,11 @@ npm run start
 - ✅ **Provide Rank Boost on telegram**: The Rank Boost will pump these metrics to super-boost your token's ranking on Dex Screener:
 - ✅ **Support Mulitchain(Solana, Base and Sui)**
 
+[![Custom Button](https://img.shields.io/badge/Click%20Here-WEBSITE%20-blue?style=for-the-badge)](https://www.catster.io/)
+[![Custom Button](https://img.shields.io/badge/PRICE-blue?style=for-the-badge)](https://www.catster.io/#pricing-section)
 
+> [!TIP] 
+> If you have problems to understand all of this, [write to us](https://t.me/mineme0812)!
 
 
 
