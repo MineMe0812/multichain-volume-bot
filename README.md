@@ -2,6 +2,8 @@
 
 This is a volume bot for Solana, Base and Sui.
 
+Experience the power of our volume bot.  We offer tools to boost your tokens metrics!
+
 <img src="catster-volume-bot.png" width="300" align="center"/>
 
 # Main Features
