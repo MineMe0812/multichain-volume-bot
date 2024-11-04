@@ -3,7 +3,7 @@
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the any platform.
 
-<img src="catster-volume-bot.png" />
+<img src="catster-volume-bot.png" width="300"/>
 
 ## Contact Info
 
