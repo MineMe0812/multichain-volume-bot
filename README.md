@@ -1,7 +1,7 @@
 # How can I boost the volume of token?
 # Multichain Volume Bot
 
-This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium, meteora and pump.fun.
+This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the any platform.
 
 <img src="catster-volume-bot.png" width="300"/>
 
