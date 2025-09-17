@@ -3,8 +3,6 @@
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the any platform.
 
-<img src="catster-volume-bot.png" width="300"/>
-
 ## Features
 
 - **Automated Wallet Creation**: Create number of wallets automatically to buy and sell the token
